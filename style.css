@@ -1,0 +1,176 @@
+.sticky-top{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    
+}
+.heading{
+    font-size:xx-large;
+    color: white;
+}
+.sticky-top>.row>.col-md-5>.button>a{
+    text-decoration: none;
+    color: yellow;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a:hover{
+    color: white;
+}
+.space-station{
+    background-image: url(alien-ship-1.jpg);
+    background-color: cornflowerblue;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.station{
+    width: 35%;
+    height: 40%;
+    border: .5px solid #5c5c5c;
+    margin-left: auto;
+    margin-right: auto;
+    color: azure;
+    text-align: center;
+    background-color: rgba(50, 51, 49, .6);
+    border-radius: 15px;
+}
+.station-sub{
+   position: relative;
+   top: 10%;
+   bottom: 10%;
+}
+.paragraph-main{
+    font-size: x-large;
+}
+.signup{
+    background-color: blue;
+    border-radius: 20px;
+    width: 40%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 5%;
+    position: relative;
+    top: 20px;
+}
+.para1{
+    text-align: center;
+    margin: 3%;
+}
+.para2{
+    margin: 3%;
+    text-align: center;
+}
+.para3{
+    text-align: center;
+    margin: 3%;
+    color: blue;
+}
+.sub-company{
+    background-color: #d7ebf5;
+    padding: 2%;
+}
+.all-log>.container-fluid>.row{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.sub-company-2{
+    margin: 10px;
+}
+.about-head{
+    text-align: center;
+    margin: 50px;
+    color: blue;
+}
+.para4{
+    text-align: center;
+    margin: 50px;
+}
+.animation>.container-fluid>.row{
+    margin-left: auto;
+    margin-right: auto;
+}
+.animation>.container-fluid>.row{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.img{
+    border: 2px;
+    border-radius: 100%;
+    background-color: #c5f5fc;
+}
+#getty-img{
+    height: 200px;
+    width: 200px;
+}
+.about-student{
+    text-align: center;
+    margin: 50px;
+    color: blue;
+}
+.student-img>.container-fluid>.row{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.student{
+    background-color: #d7ebf5;
+}
+.about-student{
+    padding: 4%;
+}
+.sign-up-learn{
+    background-color: #00418c;
+    height: 720px;
+}
+.applying{
+    padding: 4%;
+    text-align: center;
+}
+.para6{
+    color: white;
+}
+.roboting{
+    width: 60%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+#future-deep{
+    color: blue;
+}
+.photo-jfff{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px !important;
+}
+.roboting>.container-fluid>.row>.col-md-6 img{
+    height: 15%;
+    border-radius: 100%;
+}
+.bottom-part{
+    background-color: blue;
+    text-align: center;
+    color: whitesmoke;
+}
+.para5{
+    margin-top: 8%;
+}
+#techable{
+    font-size: x-large;
+}
+    
